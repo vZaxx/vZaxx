@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Hi.gif?raw=true" width="29px">
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-### <img src="https://github.com/Div1ne7/Div1ne7/blob/master/Assets/Developer.gif?raw=true" width="35px"> About Me:
+### <img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Developer.gif?raw=true" width="35px"> About Me:
 - 🏦 I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 Most of the time I work on [FiveM](https://fivem.net/) scripts
 - 💻 I use daily **.js**, **.html**, **.css**,  **.sql**,  **.lua**, **.php**
