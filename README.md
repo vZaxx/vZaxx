@@ -1,7 +1,7 @@
 # Hi there! <img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Hi.gif?raw=true" width="29px">
 
 ### <img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Developer.gif?raw=true" width="35px"> About Me:
-- 🏦 I'm a Full-Stack Script Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 Most of the time I work on [FiveM](https://fivem.net/) scripts
 - 💻 I use daily **.js**, **.html**, **.css**,  **.sql**,  **.lua**, **.php**
 - 🧡 I love gaming & programming
