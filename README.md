@@ -1,6 +1,6 @@
 # Hi there!
 
-### <img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Developer.gif?raw=true" width="35px"> About Me:
+### About Me:
 - 🏦 I'm a Full-Stack Web Developer
 - 📝 Most of the time I work on [FiveM](https://fivem.net/) scripts
 - 💻 I use daily **.js**, **.html**, **.css**,  **.sql**,  **.lua**, **.php**
