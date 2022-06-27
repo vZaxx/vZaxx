@@ -1,4 +1,5 @@
-# Hi there! <img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Hi.gif?raw=true" width="1px">
+# Hi there!
+<img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Hi.gif?raw=true" width="28px">
 
 ### <img src="https://github.com/Div1ne7/Div1ne7/blob/main/Assets/Developer.gif?raw=true" width="35px"> About Me:
 - 🏦 I'm a Full-Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
