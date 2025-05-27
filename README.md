@@ -30,6 +30,8 @@
 ☁️ Cloud: AWS, Vercel, Netlify
 ```
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
